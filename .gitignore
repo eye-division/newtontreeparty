@@ -65,9 +65,9 @@ Thumbs.db
 *.komodoproject
 
 #ignore images
-*.jpg
-*.gif
-*.jpeg
+#*.jpg
+#*.gif
+#*.jpeg
 *.png
 
 # ignore log files and databases
